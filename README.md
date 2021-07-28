@@ -8,7 +8,7 @@ This is a C program for solving sudoku. User have to enter the pre-provided elem
 
 	Firstly, you have to install command line tools on Mac OS for successfully run C programs.
 
-	To download XCode command lines tools clink on this hyperlink XCode command line tools and Login with your Apple Id.
+	To download XCode command lines tools go to app store in mac and download XCode command line tools by Login with your Apple Id.
 
 	Now user have to firstly copy the program given in this project repository as “sudoku.c”.
 
