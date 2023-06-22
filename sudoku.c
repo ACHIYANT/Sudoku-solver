@@ -3,7 +3,7 @@
 //  sudoku_project
 //
 //  Created by ACHIYANT  on 04/01/21.
-//  Created with Mac OS (XCode).
+//  Created with Mac OS(XCode).
 //
 #include <stdio.h>
 #include <stdlib.h>
